@@ -1,0 +1,225 @@
+{
+ "cells": [
+  {
+   "cell_type": "markdown",
+   "metadata": {
+    "pycharm": {
+     "name": "#%% md\n"
+    }
+   },
+   "source": [
+    "# COGS 108 - Final Project Proposal"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {
+    "pycharm": {
+     "name": "#%% md\n"
+    }
+   },
+   "source": [
+    "# Names\n",
+    "\n",
+    "- Ant Man\n",
+    "- Ryan Kao\n",
+    "- Russell Zuchlewski\n",
+    "- Kevin Nguyen\n",
+    "- Connor Bates"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {
+    "pycharm": {
+     "name": "#%% md\n"
+    }
+   },
+   "source": [
+    "# Research Question"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {
+    "pycharm": {
+     "name": "#%% md\n"
+    }
+   },
+   "source": [
+    "*Does Syria's outward rate of migration have an impact on where disturbed populations seek asylum and ultimately resettle?*"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {
+    "pycharm": {
+     "name": "#%% md\n"
+    }
+   },
+   "source": [
+    "## Background and Prior Work"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {
+    "pycharm": {
+     "name": "#%% md\n"
+    }
+   },
+   "source": [
+    "In the modern socio-political climate Refugee and Asylum seekers comprise one of the most vulnerable and one of the fastest growing populations. A 2021 study of refugee and asylum seekers by the United Nations indicated that a record number 84 million refugees had been displaced in the time period between January 2021 and November 2021 [^UN2]. Current projections show the effects of climate change, the COVID-19 Pandemic and governmental instability exacerbating this already growing trend throughout the 2020s. Understanding refugee patterns and the taken towards resettlement is key to being properly prepared and integrating them into host countries. Representing the Largest and longest refugee crisis of the 2010s, an analysis of refugee data from the Syrian Civil War can provide insights on how governments and NGOs can better prepare for future global crises.\n",
+    "\n",
+    "Following the most intense drought in modern Syrian history from 2006 to 2010, the largely agrarian population had resettled into urban ghettos[^Brit]. Following the period of resettlement, disturbed populations began to protest inequitable economic policy as well as the complacent Assad regime[^Brit]. Military response to the peaceful protests seen throughout the region sparked what has become a decade long civil war for control of Syria. The Civil War has seen over 6.6 million registered Syrian refugees leave the country [^UN].\n",
+    "\n",
+    "References:\n",
+    "[^Brit]: Britannica, The Editors of Encyclopaedia. \"Syrian Civil War\". *Encyclopedia Britannica*, 17 Jul. 2020, https://www.britannica.com/event/Syrian-Civil-War. Accessed 21 April 2022.\n",
+    "[^UN]: “Syria Refugee Crisis Explained.” How to Help Refugees - Aid, Relief and Donations, 2021, www.unrefugees.org/news/syria-refugee-crisis-explained/#What%20is%20happening%20in%20Syria’s%20northwest%20region%20–%C2%A0specifically%20in%20Idlib%C2%A0–%C2%A0right%20now?\n",
+    "[^UN2]: “2021 Year in Review: Refugee, Migrant Numbers Rise, despite Travel Curbs | | UN News.” United Nations, United Nations, 2021, news.un.org/en/story/2021/12/1108472.\n"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {
+    "pycharm": {
+     "name": "#%% md\n"
+    }
+   },
+   "source": [
+    "# Hypothesis\n"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {
+    "pycharm": {
+     "name": "#%% md\n"
+    }
+   },
+   "source": [
+    "*State and defend your hypotheses here.*"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {
+    "pycharm": {
+     "name": "#%% md\n"
+    }
+   },
+   "source": [
+    "# Data"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {
+    "pycharm": {
+     "name": "#%% md\n"
+    }
+   },
+   "source": [
+    "*Explain what the ideal dataset you would want to answer this question. (This should include: What variables? How many observations? Who/what/how would these data be collected? How would these data be stored/organized?)*"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {
+    "pycharm": {
+     "name": "#%% md\n"
+    }
+   },
+   "source": [
+    "# Ethics & Privacy"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {
+    "pycharm": {
+     "name": "#%% md\n"
+    }
+   },
+   "source": [
+    "*Fill in your ethics & privacy discussion here*"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {
+    "pycharm": {
+     "name": "#%% md\n"
+    }
+   },
+   "source": [
+    "# Team Expectations "
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {
+    "pycharm": {
+     "name": "#%% md\n"
+    }
+   },
+   "source": [
+    "* *Team Expectation 1*\n",
+    "* *Team Expectation 2*\n",
+    "* *Team Expecation 3*\n",
+    "* ..."
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {
+    "pycharm": {
+     "name": "#%% md\n"
+    }
+   },
+   "source": [
+    "# Project Timeline Proposal"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {
+    "pycharm": {
+     "name": "#%% md\n"
+    }
+   },
+   "source": [
+    "| Meeting Date  | Meeting Time| Completed Before Meeting  | Discuss at Meeting |\n",
+    "|---|---|---|---|\n",
+    "| 1/20  |  1 PM | Read & Think about COGS 108 expectations; brainstorm topics/questions  | Determine best form of communication; Discuss and decide on final project topic; discuss hypothesis; begin background research | \n",
+    "| 1/26  |  10 AM |  Do background research on topic | Discuss ideal dataset(s) and ethics; draft project proposal | \n",
+    "| 2/1  | 10 AM  | Edit, finalize, and submit proposal; Search for datasets  | Discuss Wrangling and possible analytical approaches; Assign group members to lead each specific part   |\n",
+    "| 2/14  | 6 PM  | Import & Wrangle Data (Ant Man); EDA (Hulk) | Review/Edit wrangling/EDA; Discuss Analysis Plan   |\n",
+    "| 2/23  | 12 PM  | Finalize wrangling/EDA; Begin Analysis (Iron Man; Thor) | Discuss/edit Analysis; Complete project check-in |\n",
+    "| 3/13  | 12 PM  | Complete analysis; Draft results/conclusion/discussion (Wasp)| Discuss/edit full project |\n",
+    "| 3/19  | Before 11:59 PM  | NA | Turn in Final Project & Group Project Surveys |"
+   ]
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python 3",
+   "language": "python",
+   "name": "python3"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.7.9"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 2
+}
